@@ -34,6 +34,9 @@ class App extends React.Component<{store: any | undefined}> {
                       <section className="col-sm-3 sidenav">
                           <h4>Product list</h4>
                           <ProductSection/>
+                          <div className="copyr">
+                          <br></br>Made with &#x2764;&#xfe0f; by Trinity!!
+                          </div>
                       </section>
                   </div>
               </div>
