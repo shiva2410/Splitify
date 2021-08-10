@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './App.css';
 import './main.css';
-import Logo from './logo.svg';
+import Logo from './logo.png';
 import ProductSection from "./components/ProductSection";
 import PeopleSection from "./components/PeopleSection";
 import ResultsSection from "./components/ResultsSection";
@@ -19,7 +19,7 @@ class App extends React.Component<{store: any | undefined}> {
               <div className="container-fluid">
                   <div className="row header App-header">
                       <img src={Logo} className="App-logo"/>
-                      <h1>Splitify</h1>
+                      <h1>&nbsp;&nbsp;Splitify</h1>
                   </div>
                   <div className="row content">
                       <section className="col-sm-3 sidenav">
