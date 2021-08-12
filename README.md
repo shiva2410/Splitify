@@ -12,6 +12,7 @@ Clone repo, then:
 - npm install
 - npm start
 
+![Alt text](WebApp.png?raw=true "Prototype on Web")
 
 ## Features
 - It is a cross-platform app which is :
