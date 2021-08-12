@@ -2,9 +2,9 @@
 ## Best Fund Splitter, Ever
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://github.com/shiva2410/Splitify)](https://github.com/shiva2410/Splitify)
 
-Splitify is a cloud-enabled, mobile-ready, real time fund splitter. It is works smoothly on any platform and has features to notify the user about their share.
+Splitify is a cloud-enabled, mobile-ready, real time fund splitter. It works smoothly on any platform and has features to notify the user about their share.
 
 ## Quick start
 
