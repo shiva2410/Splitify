@@ -24,6 +24,16 @@ Clone repo, then:
 - Integrates with ZETA’s API.
 - Real-time calculation of the inputs done by the user.
 
+## Tech
+
+Splitify uses a number of open source projects to work properly:
+
+- node.js - evented I/O for the backend
+- TypeScript - fast node.js network app framework
+- jQuery - duh
+- HTML
+- CSS
+- React
 
 ## Approach
 - The idea is to use Greedy algorithm where at every step, settle all amounts of one person and recur for remaining n-1 persons. 
