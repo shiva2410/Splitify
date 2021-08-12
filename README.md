@@ -2,7 +2,7 @@
 ## Best Fund Splitter, Ever
 
 
-[![Build Status](https://github.com/shiva2410/Splitify)](https://github.com/shiva2410/Splitify)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/shiva2410/Splitify)
 
 Splitify is a cloud-enabled, mobile-ready, real time fund splitter. It works smoothly on any platform and has features to notify the user about their share.
 
@@ -33,7 +33,7 @@ Splitify uses a number of open source projects to work properly:
 - jQuery - duh
 - HTML
 - CSS
-- React
+- React JS
 
 ## Approach
 - The idea is to use Greedy algorithm where at every step, settle all amounts of one person and recur for remaining n-1 persons. 
